@@ -4,16 +4,19 @@
   left: 0;
   width: 1728px;
 }
+
 .ribinChild {
   top: 146px;
   background-color: #f09ea6;
   height: 680px;
 }
+
 .asset52x1 {
   top: 138px;
   height: 689px;
   object-fit: cover;
 }
+
 .ribinItem {
   position: absolute;
   top: 2261px;
@@ -23,6 +26,7 @@
   width: 320px;
   height: 73px;
 }
+
 .rectangleDiv,
 .ribinChild1,
 .ribinInner {
@@ -33,16 +37,19 @@
   width: 1728px;
   height: 688px;
 }
+
 .rectangleDiv,
 .ribinChild1 {
   top: 3002px;
   background-color: var(--color-orangered);
   height: 497px;
 }
+
 .ribinChild1 {
   top: 4283px;
   height: 700px;
 }
+
 .ribinLogo1Icon {
   position: absolute;
   top: 20px;
@@ -51,6 +58,7 @@
   height: 106px;
   object-fit: cover;
 }
+
 .aboutUs,
 .collection,
 .download,
@@ -64,27 +72,33 @@
   color: var(--color-brown);
   text-align: left;
 }
+
 .aboutUs,
 .collection,
 .download {
   left: 641px;
 }
+
 .aboutUs,
 .download {
   left: 913px;
 }
+
 .download {
   left: 1145px;
 }
+
 .giftMem {
   margin: 0;
 }
+
 .giftMemRableContainer,
 .toYourLovedContainer {
   position: absolute;
   letter-spacing: 0.03em;
   text-align: left;
 }
+
 .giftMemRableContainer {
   top: 291px;
   left: 84px;
@@ -95,6 +109,7 @@
   color: #b61717;
   white-space: pre-wrap;
 }
+
 .toYourLovedContainer {
   top: 501px;
   left: 90px;
@@ -103,6 +118,7 @@
   font-weight: 500;
   color: var(--color-orangered);
 }
+
 .layer1Icon {
   position: absolute;
   top: 290px;
@@ -111,6 +127,7 @@
   height: 75px;
   overflow: hidden;
 }
+
 .ribinChild2 {
   position: absolute;
   top: 893px;
@@ -120,6 +137,7 @@
   width: 499px;
   height: 73px;
 }
+
 .aboutUs1,
 .brandsThatTrust {
   position: absolute;
@@ -127,15 +145,18 @@
   text-transform: uppercase;
   font-weight: 800;
 }
+
 .brandsThatTrust {
   top: 905px;
   left: 647px;
   text-align: left;
 }
+
 .aboutUs1 {
   top: 2273px;
   left: 771px;
 }
+
 .ribinWebsite22Icon {
   position: absolute;
   top: 980px;
@@ -144,6 +165,7 @@
   height: 518px;
   object-fit: cover;
 }
+
 .ribinChild3 {
   position: absolute;
   top: 1582px;
@@ -153,6 +175,7 @@
   width: 499px;
   height: 73px;
 }
+
 .ourCollection {
   position: absolute;
   top: 1594px;
@@ -163,6 +186,7 @@
   color: var(--color-red);
   text-align: left;
 }
+
 .browseOurCollectionContainer {
   position: absolute;
   top: 1695px;
@@ -171,6 +195,7 @@
   line-height: 126.1%;
   font-weight: 500;
 }
+
 .asset12x1 {
   position: absolute;
   top: 1844px;
@@ -179,18 +204,21 @@
   height: 259px;
   object-fit: cover;
 }
+
 .foodBeveragesContainer {
   position: absolute;
   left: 138px;
   line-height: 111.5%;
   font-weight: 900;
 }
+
 .fashion,
 .foodBeveragesContainer,
 .jewelry {
   top: 2062px;
   font-size: var(--font-size-xl);
 }
+
 .fashion {
   position: absolute;
   left: 349px;
@@ -198,9 +226,11 @@
   text-transform: uppercase;
   font-weight: 900;
 }
+
 .jewelry {
   left: 553px;
 }
+
 .accessories,
 .accessories1,
 .entertainment,
@@ -211,11 +241,13 @@
   text-transform: uppercase;
   font-weight: 900;
 }
+
 .entertainment {
   top: 2114px;
   left: 734px;
   font-size: 30px;
 }
+
 .accessories,
 .accessories1,
 .fitness {
@@ -223,13 +255,16 @@
   left: 1082px;
   font-size: var(--font-size-xl);
 }
+
 .accessories,
 .accessories1 {
   left: 1260px;
 }
+
 .accessories1 {
   left: 1457px;
 }
+
 .ribinAppIsContainer,
 .ribinIsAContainer {
   position: absolute;
@@ -242,12 +277,14 @@
   color: var(--color-orangered);
   text-align: left;
 }
+
 .ribinIsAContainer {
   top: 2597px;
   font-size: var(--font-size-21xl);
   letter-spacing: 0.02em;
   font-weight: 800;
 }
+
 .asset22x1,
 .asset22x2,
 .asset32x1 {
@@ -258,6 +295,7 @@
   height: 549px;
   object-fit: cover;
 }
+
 .asset22x2,
 .asset32x1 {
   top: 3325px;
@@ -265,12 +303,14 @@
   width: 476px;
   height: 66px;
 }
+
 .asset32x1 {
   top: 2916px;
   left: 128px;
   width: 420px;
   height: 676px;
 }
+
 .downloadTheAppContainer {
   position: absolute;
   top: 3079px;
@@ -281,6 +321,7 @@
   font-weight: 900;
   text-align: left;
 }
+
 .ribinChild4 {
   position: absolute;
   top: 3657px;
@@ -290,6 +331,7 @@
   width: 320px;
   height: 73px;
 }
+
 .contactUs {
   position: absolute;
   top: 3669px;
@@ -298,6 +340,7 @@
   text-transform: uppercase;
   font-weight: 800;
 }
+
 .ribinChild5 {
   position: absolute;
   top: 3657px;
@@ -307,6 +350,7 @@
   width: 348px;
   height: 73px;
 }
+
 .followUsOn {
   position: absolute;
   top: 3669px;
@@ -315,6 +359,7 @@
   text-transform: uppercase;
   font-weight: 800;
 }
+
 .lineDiv {
   position: absolute;
   top: 3654.5px;
@@ -324,6 +369,7 @@
   width: 1px;
   height: 560px;
 }
+
 .ribinChild6,
 .ribinChild7,
 .ribinChild8 {
@@ -336,13 +382,16 @@
   width: 609px;
   height: 68px;
 }
+
 .ribinChild7,
 .ribinChild8 {
   top: 3914px;
 }
+
 .ribinChild8 {
   top: 4029px;
 }
+
 .johnDoe,
 .johndoegmailcom,
 .xxxxxx99 {
@@ -356,13 +405,16 @@
   color: var(--color-lightgray);
   text-align: left;
 }
+
 .johndoegmailcom,
 .xxxxxx99 {
   top: 3928px;
 }
+
 .xxxxxx99 {
   top: 4043px;
 }
+
 .ribinChild9 {
   position: absolute;
   top: 4147px;
@@ -372,6 +424,7 @@
   width: 198px;
   height: 61px;
 }
+
 .send {
   position: absolute;
   top: 4153px;
@@ -380,6 +433,7 @@
   text-transform: uppercase;
   font-weight: 800;
 }
+
 .asset32x2 {
   position: absolute;
   top: 3765px;
@@ -388,6 +442,7 @@
   height: 412px;
   object-fit: cover;
 }
+
 .companyOurServiceContainer,
 .contactUsFaqContainer {
   position: absolute;
@@ -398,9 +453,11 @@
   text-transform: uppercase;
   font-weight: 800;
 }
+
 .contactUsFaqContainer {
   left: 1258px;
 }
+
 .wantToGiveContainer {
   position: absolute;
   top: 4643px;
@@ -410,6 +467,7 @@
   line-height: 126.1%;
   font-weight: 500;
 }
+
 .asset42x1 {
   position: absolute;
   top: 4480px;
@@ -418,6 +476,7 @@
   height: 155px;
   object-fit: cover;
 }
+
 .ribin {
   position: relative;
   background-color: #ffefe5;
@@ -428,4 +487,186 @@
   font-size: var(--font-size-17xl);
   color: var(--color-white);
   font-family: var(--font-avenir);
+}
+
+/*----------------------For Mobile Screens--------------------------*/
+
+@media screen and (max-width: 600px) {
+
+  .ribinItem {
+    position: absolute;
+    left: 0%;
+    border-radius: 0;
+    background-color: var(--color-orangered);
+    width: 600px;
+    height: 30px;
+  }
+
+  .asset52x1 {
+    top: 2.66%;
+    height: 5%;
+    object-fit: cover;
+  }
+
+  .rectangleDiv,
+  .ribinChild1,
+  .ribinInner {
+    position: absolute;
+    top: 1524px;
+    left: 0;
+    background-color: var(--color-red);
+    width: 600px;
+    height: 688px;
+  }
+
+  .giftMemRableContainer,
+  .toYourLovedContainer {
+    position: absolute;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+
+
+  .giftMemRableContainer {
+    top: 250px;
+    left: 8%;
+    font-size: 30px;
+    line-height: 115%;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #b61717;
+    white-space: pre-wrap;
+  }
+
+
+  .toYourLovedContainer {
+    top: 350px;
+    left: 8%;
+    font-size: 20px;
+    line-height: 0%;
+    font-weight: 500;
+    color: var(--color-orangered);
+    
+  }
+
+
+  .aboutUs,
+  .collection,
+  .download,
+  .partners {
+    position: absolute;
+    top: 2.25%;
+    left: 2%;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 1000;
+    color: var(--color-brown);
+    text-align: left;
+  }
+
+  .aboutUs,
+  .collection,
+  .download {
+    left: 27%;
+  }
+
+  .aboutUs,
+  .download {
+    left: 55%;
+  }
+
+  .download {
+    left: 78.5%;
+  }
+
+  .ribinLogo1Icon {
+    position: absolute;
+    top: 0.2%;
+    left: 14%;
+    width: 295px;
+    height: 90px;
+  }
+
+
+  .ribinChild4 {
+    top: 73.5%;
+    left: 13%;
+    border-radius: var(--br-17xl-5);
+    width: 320px;
+  }
+
+  .contactUs {
+    position: absolute;
+    top: 73.6;
+    left: 23%;
+  }
+
+  .ribinChild6,
+  .ribinChild7,
+  .ribinChild8 {
+    top: 75.6%;
+    left: 8%;
+    width: 350px;
+    height: 50px;
+  }
+
+  .ribinChild7,
+  .ribinChild8 {
+    top: 76.8%;
+  }
+
+  .ribinChild8 {
+    top: 78%;
+  }
+
+  .johnDoe,
+  .johndoegmailcom,
+  .xxxxxx99 {
+    top: 75.7%;
+    left: 35%;
+    text-align: center;
+  }
+
+  .johndoegmailcom,
+  .xxxxxx99 {
+    top: 76.9%;
+    left: 18%;
+  }
+
+  .xxxxxx99 {
+    top: 78.1%;
+    left: 30%;
+  }
+
+  .ribinChild9 {
+    top: 80%;
+    left: 25%;
+  }
+
+  .send {
+    top: 80.2%;
+    left: 37%;
+  }
+
+
+  .ribinChild5 {
+    top: 82%;
+    left: 9%;
+  }
+
+  .followUsOn {
+    top: 82.3%;
+    left: 17%;
+  }
+
+  .asset32x2 {
+    position: absolute;
+    top: 84%;
+    left: 2%;
+    right: 2%;
+    width: 100%;
+    height: 412px;
+    object-fit: cover;
+  }
+
 }
